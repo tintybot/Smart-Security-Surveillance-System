@@ -1,2 +1,2 @@
-# Smart-Security-Sureillance-System
+# Smart-Security-Surveillance-System
 AI based violent/non violent action detector
